@@ -1,5 +1,5 @@
 void main() {
-  var alphabet = 'a';
+  var alphabet = 'z';
   if (alphabet == 'i' ||
       alphabet == 'e' ||
       alphabet == 'o' ||
@@ -7,6 +7,6 @@ void main() {
       alphabet == 'a') {
     print('this is vowel word');
   } else {
-    print('this is consonant word');
+    print('this is consonant word and you are wrong');
   }
 }
